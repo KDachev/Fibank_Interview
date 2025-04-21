@@ -1,0 +1,3 @@
+{"balanceId":1,"cashierId":1,"currencyTotal":{"EUR":1700,"BGN":1500},"denominations":{"EUR":{"TWENTY":5,"TEN":100,"FIFTY":12},"BGN":{"TWENTY":0,"TEN":55,"FIFTY":19}}}
+{"balanceId":2,"cashierId":2,"currencyTotal":{"EUR":1700,"BGN":1500},"denominations":{"EUR":{"TWENTY":5,"TEN":100,"FIFTY":12},"BGN":{"TWENTY":0,"TEN":55,"FIFTY":19}}}
+{"balanceId":3,"cashierId":3,"currencyTotal":{"EUR":1700,"BGN":1500},"denominations":{"EUR":{"TWENTY":5,"TEN":100,"FIFTY":12},"BGN":{"TWENTY":0,"TEN":55,"FIFTY":19}}}
